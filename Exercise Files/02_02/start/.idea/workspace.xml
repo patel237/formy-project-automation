@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d68fe6cd-d5ef-4079-ab92-6138e1dd4958" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XdjxO03LJu7uK5LjliebWg2eXH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="KeyboardAndMouseInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KeyboardAndMouseInput" />
+      <module name="KeyboardAndMouseInput" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KeyboardAndMouseInput" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d68fe6cd-d5ef-4079-ab92-6138e1dd4958" name="Default" comment="" />
+      <created>1524332680845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524332680845</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="88" key="#Project_Structure" timestamp="1581383210672">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="320" y="88" key="#Project_Structure/0.23.1440.798@0.23.1440.798" timestamp="1581383210672" />
+    <state width="1059" height="251" key="GridCell.Tab.0.bottom" timestamp="1581396620291">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1059" height="251" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1581384681791" />
+    <state width="1059" height="251" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1581396620291" />
+    <state width="1059" height="251" key="GridCell.Tab.0.center" timestamp="1581396620290">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1059" height="251" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1581384681790" />
+    <state width="1059" height="251" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1581396620290" />
+    <state width="1059" height="251" key="GridCell.Tab.0.left" timestamp="1581396620290">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1059" height="251" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1581384681790" />
+    <state width="1059" height="251" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1581396620290" />
+    <state width="1059" height="251" key="GridCell.Tab.0.right" timestamp="1581396620291">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1059" height="251" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1581384681791" />
+    <state width="1059" height="251" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1581396620291" />
+    <state x="229" y="60" key="SettingsEditor" timestamp="1581384268945">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="229" y="60" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1581383776949" />
+    <state x="229" y="60" key="SettingsEditor/0.23.1440.798@0.23.1440.798" timestamp="1581384268945" />
+  </component>
+</project>

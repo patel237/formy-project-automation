@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a94627b-3b82-4464-824d-e84d4efcb61f" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1360" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectId" id="1Y0Xof4OXntWZKidgbaddhzKcHK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="Radiobuttons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Radiobuttons" />
+      <module name="Radiobuttons" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Radiobuttons" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a94627b-3b82-4464-824d-e84d4efcb61f" name="Default" comment="" />
+      <created>1521319313416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521319313416</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="546" y="308" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582080681956">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="546" y="308" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.800@0.23.1440.800" timestamp="1582080681956" />
+    <state x="300" y="74" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1582080680123">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="300" y="74" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.23.1440.800@0.23.1440.800" timestamp="1582080680123" />
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1582088069789">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1582088069789" />
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1582085759604" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1582088069788">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1582088069788" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1582085759603" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1582088069788">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1582088069788" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1582085759603" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1582088069788">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1582088069788" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1582085759604" />
+    <state x="368" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1582080672004">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="368" y="245" key="com.intellij.ide.util.TipDialog/0.23.1440.800@0.23.1440.800" timestamp="1582080672004" />
+    <state x="377" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1582085451056">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="377" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1582085451056" />
+  </component>
+</project>
